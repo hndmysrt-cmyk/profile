@@ -1,0 +1,73 @@
+.inputone,.inputtwo{
+    width: 140px;
+    height: 20px;
+    margin: 6px;
+    border: 2px solid rgb(185, 196, 216)
+}
+.inputtwo{
+    margin: 3px;
+}
+.inputthree,.inputfour,.inputfive{
+    width: 300px;
+    height: 20px;
+    margin: 6px;
+    border: 2px solid rgb(185, 196, 216)
+}
+.main{
+    background: rgb(151, 100, 100);
+}
+.pa1{
+    position: relative;
+    top: 50px;
+    float: right;
+    right: 350px;
+}
+.formbody{
+    width: 403px;
+    height: 300px;
+    position: relative;
+    float: right;
+    top: 90px;
+    right: center;
+}
+.select{
+    color: blue;
+    font-size: 13px;
+}
+.radio{
+    color: black;
+    
+}
+.submit{
+    width: 200px;
+    height: 40px;
+    background-color: rgb(151, 100, 100);
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 17px;
+}
+.para{
+    line-height: 20px;
+    max-width: 850px;
+    max-height: -40px;
+    position: relative;
+    bottom: -50px;
+    left: 50px;
+    color: rgb(151, 100, 100);
+    font-size: 27px;
+}
+.img{
+    position: relative;
+    bottom: 500px;
+    left: 25px;
+    width: 400px;
+    height: 400px;
+    margin: 250px;
+    
+}
+.one{
+    width: 50px;
+    height: 50px;
+}
+
